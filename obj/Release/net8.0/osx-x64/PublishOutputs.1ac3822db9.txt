@@ -1,0 +1,2 @@
+/Users/priyanshuawasthi/Documents/assignment/bin/Release/net8.0/osx-x64/publish/assignment.pdb
+/Users/priyanshuawasthi/Documents/assignment/bin/Release/net8.0/osx-x64/publish/assignment

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExDG91tJxn7VRBmv4EZ8vD9OHxo65Na5jK0HCNh6y7uLZogwbJ7DAYIs0B3J1h6IWLX7lYCp68LtM7RfBQC+vQ==",
+  "success": true,
+  "projectFilePath": "/Users/priyanshuawasthi/Documents/assignment/assignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/priyanshuawasthi/.nuget/packages/harfbuzzsharp/7.3.0.2/harfbuzzsharp.7.3.0.2.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/harfbuzzsharp.nativeassets.macos/7.3.0.2/harfbuzzsharp.nativeassets.macos.7.3.0.2.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/harfbuzzsharp.nativeassets.win32/7.3.0.2/harfbuzzsharp.nativeassets.win32.7.3.0.2.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/microsoft.net.illink.tasks/8.0.21/microsoft.net.illink.tasks.8.0.21.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/oxyplot.core/2.2.0/oxyplot.core.2.2.0.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/oxyplot.skiasharp/2.2.0/oxyplot.skiasharp.2.2.0.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/skiasharp/2.88.8/skiasharp.2.88.8.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/skiasharp.harfbuzz/2.88.8/skiasharp.harfbuzz.2.88.8.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/skiasharp.nativeassets.macos/2.88.8/skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/skiasharp.nativeassets.win32/2.88.8/skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/8.0.21/microsoft.netcore.app.runtime.osx-x64.8.0.21.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.21/microsoft.aspnetcore.app.runtime.osx-x64.8.0.21.nupkg.sha512",
+    "/Users/priyanshuawasthi/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.21/microsoft.netcore.app.host.osx-x64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
